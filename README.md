@@ -1,8 +1,14 @@
-# 设计思路
+# 设计思路及使用方式
 - （待更新）
 - （待更新）
 - （待更新）
 - ![效果图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
+
+# 待扩展内容
+- 数据库验证
+- yaml数据源
+- 。。。
+
 
 
 # 自动化测试框架（汇总）
