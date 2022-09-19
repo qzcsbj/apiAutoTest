@@ -3,9 +3,7 @@
 - （待更新）
 - （待更新）
 - （待更新）
-- （待更新）
-- （待更新）
-- （待更新）
+
 
 - ![效果图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
 
