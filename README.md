@@ -8,6 +8,7 @@
 - ![效果图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
 
 # 待扩展内容
+- 文件上传、下载
 - 数据库验证
 - yaml数据源
 - 。。。
