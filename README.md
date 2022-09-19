@@ -36,5 +36,4 @@
 - 咨询测试问题，请加**微信：ren168632201**
 - ![微信：ren168632201](https://gitee.com/qzcsbj/pic/raw/master/wx.png "微信：ren168632201")
 - 更多测试干货，请关注：**微信公众号：全栈测试笔记**
-- ![微信公众号：全栈测试笔记](https://images.gitee.com/uploads/images/2021/0501/100020_01f5c2b2_1925756.png "公众号：全栈测试笔记")
 - ![微信公众号：全栈测试笔记](https://gitee.com/qzcsbj/pic/raw/master/qzcsbj.png "公众号：全栈测试笔记")
