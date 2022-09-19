@@ -2,7 +2,7 @@
 - （待更新）
 - （待更新）
 - （待更新）
-- ![**效果图**](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
+- ![效果图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
 
 
 # 自动化测试框架（汇总）
