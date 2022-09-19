@@ -27,8 +27,7 @@
 
 ### 待更新框架
 - pytest
-- web端ui自动化测试框架
-- app端ui自动化测试框架（airtest）
+- airtest
 - 性能自动化测试框架
 
 
