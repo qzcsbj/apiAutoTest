@@ -30,7 +30,7 @@
 - JMeter + Maven + Jenkins ：https://www.cnblogs.com/uncleyong/p/10843097.html
 
 ##### 写代码版
-- 基础入门（python版）：/dev01/
+- [X] 基础入门（python版）：/dev01/
 - unittest + 关联 + excle + ddt：/dev02/
 - 自己造轮子（未使用unittest、pytest等）：/dev04/
 - 自己造轮子（未使用unittest、pytest等，dev04升级版）：/dev05/
