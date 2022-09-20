@@ -25,9 +25,9 @@
 ## 自动化框架清单（欢迎交流、斧正、指导）
 ### 已完成框架
 ##### 不写代码版
-- JMeter + Ant + Jenkins【 windows 版】： https://www.cnblogs.com/uncleyong/p/10739519.html
-- JMeter + Ant + Jenkins【 linux 版】： https://www.cnblogs.com/uncleyong/p/10766480.html
-- JMeter + Maven + Jenkins ：https://www.cnblogs.com/uncleyong/p/10843097.html
+- [X] JMeter + Ant + Jenkins【 windows 版】： https://www.cnblogs.com/uncleyong/p/10739519.html
+- [X] JMeter + Ant + Jenkins【 linux 版】： https://www.cnblogs.com/uncleyong/p/10766480.html
+- [X] JMeter + Maven + Jenkins ：https://www.cnblogs.com/uncleyong/p/10843097.html
 
 ##### 写代码版
 - [X] 基础入门（python版）：/dev01/
