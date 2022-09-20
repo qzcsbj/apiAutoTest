@@ -44,6 +44,6 @@
 ## 测试咨询、交流
 - 咨询测试问题，请加**微信：ren168632201**
 - ![微信：ren168632201](https://gitee.com/qzcsbj/pic/raw/master/wx.png "微信：ren168632201")
-<br/><img src="https://gitee.com/qzcsbj/pic/raw/master/wx.png" width="280" height="280" alt="微信：ren168632201"/>微信：ren168632201<br/>
+<br/><img src="https://gitee.com/qzcsbj/pic/raw/master/wx.png" width="280" height="280" alt="微信：ren168632201">微信：ren168632201</img><br/>
 - 更多测试干货，请关注：**微信公众号：全栈测试笔记**
 - ![微信公众号：全栈测试笔记](https://gitee.com/qzcsbj/pic/raw/master/qzcsbj.png "公众号：全栈测试笔记")
