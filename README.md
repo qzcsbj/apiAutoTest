@@ -31,9 +31,9 @@
 
 ##### 写代码版
 - [X] 基础入门（python版）：/dev01/
-- unittest + 关联 + excle + ddt：/dev02/
-- 自己造轮子（未使用unittest、pytest等）：/dev04/
-- 自己造轮子（未使用unittest、pytest等，dev04升级版）：/dev05/
+- [X] unittest + 关联 + excle + ddt：/dev02/
+- [X] 自己造轮子（未使用unittest、pytest等）：/dev04/
+- [X] 自己造轮子（未使用unittest、pytest等，dev04升级版）：/dev05/
 
 ### 待更新框架
 - pytest
