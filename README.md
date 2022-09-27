@@ -1,14 +1,12 @@
-# 设计思路及使用方式等
+# 设计思路、使用方式、待扩展功能等
 - 主要技术栈：java + testng + httpclient + allure + fastjson + jsonpath + ...
 - [**设计思路**](https://www.cnblogs.com/uncleyong/p/15867903.html)
 - [**使用方式**](https://www.cnblogs.com/uncleyong/p/15867903.html)
-- ![效果图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
+- [**待扩展功能**](https://www.cnblogs.com/uncleyong/p/15867903.html)
 
-# 待扩展内容
-- 文件上传、下载
-- 数据库验证
-- yaml数据源
-- 。。。
+
+# 效果图
+- ![效果图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
 
 
 
