@@ -1,8 +1,7 @@
-# 设计思路及使用方式
-- java + testng + httpclient + allure + ...
-- （待更新）
-- （待更新）
-- （待更新）
+# 设计思路及使用方式等
+- 主要技术栈：java + testng + httpclient + allure + fastjson + jsonpath + ...
+- [**设计思路**](https://www.cnblogs.com/uncleyong/p/15867903.html)
+- [**使用方式**](https://www.cnblogs.com/uncleyong/p/15867903.html)
 
 
 - ![效果图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
