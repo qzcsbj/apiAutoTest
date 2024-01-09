@@ -21,10 +21,10 @@ public class BaseCase{
     public static Logger logger = Logger.getLogger(BaseCase.class);
 
     // ip
-    public static String ip;
+    // public static String ip;
 
     // 端口
-    public static String port;
+    // public static String port;
 
     // HttpClient对象
     // public static CloseableHttpClient httpClient;

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="apiAutoTest" verbose="1" preserve-order="true" parallel="false">
-    <!--<parameter name="ip" value="127.0.0.1"/>-->
-    <!--<parameter name="port" value="9999"/>-->
     <parameter name="variableSheetName" value="variables"/>
-    <test name="api case" enabled="true">  <!--test必须有name属性-->
+    <test name="register-login-add-findByName" enabled="true">  <!--test必须有name属性-->
         <parameter name="excelPath" value="caseData/caseData.xlsx"/>
         <parameter name="dataSheetName" value="v4_scenesCase"/>
 
@@ -12,25 +10,6 @@
             <class name="com.qzcsbj.autotest.testcase.DemoCase"/>
         </classes>
     </test>
-    
-    <test name="api case2" enabled="false">  <!--test必须有name属性-->
-        <classes>
-            <class name="com.qzcsbj.autotest.testcase.DemoCase"/>
-                <parameter name="excelPath" value="caseData/case2.xlsx"/>
-                <parameter name="sheetName" value="v4_scenesCase"/>
-        </classes>
-    </test>
-
-    <!--<test name="scenes1_Login_AddUser" enabled="false" preserve-order="true">  &lt;!&ndash;test必须有name属性&ndash;&gt;-->
-    <test name="scenes1_Login_AddUser" enabled="false">  <!--test必须有name属性-->
-        <parameter name="excelPath" value="caseData/case2.xlsx"/>
-        <parameter name="sheetName" value="scenes1_Login_AddUser"/>
-        <classes>
-            <class name="com.qzcsbj.autotest.testcase.DemoCase"/>
-            <class name="com.qzcsbj.autotest.testcase.DemoCase"/>
-        </classes>
-    </test>
-
 
     <listeners>
         <!-- ExtentReport 报告  -->

@@ -39,11 +39,11 @@ public class PropertiesUtil {
 
 
     public static String getIp(){
-        return properties.getProperty("ip");
+        return properties.getProperty("project.ip");
     }
 
     public static String getPort(){
-        return properties.getProperty("port").trim();
+        return properties.getProperty("project.port").trim();
     }
 
 }
