@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45317cef-7892-4bfd-8d57-953ef046995b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/bin/allure" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/bin/allure" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/bin/allure.bat" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/bin/allure.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/config/allure-junit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/config/allure-junit.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/config/allure.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/config/allure.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/lib/config/jetty-logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/lib/config/jetty-logging.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/lib/config/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/lib/config/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/behaviors-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/behaviors-plugin/static/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/behaviors-plugin/static/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/custom-logo-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/custom-logo-plugin/static/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/jira-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/jira-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/junit-xml-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/junit-xml-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/packages-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/packages-plugin/static/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/packages-plugin/static/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/screen-diff-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/screen-diff-plugin/static/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/screen-diff-plugin/static/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/trx-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/trx-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/xctest-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/xctest-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/xray-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/xray-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/xunit-xml-plugin/allure-plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.allure/allure-2.13.9/plugins/xunit-xml-plugin/allure-plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/entity/CaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/entity/CaseData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/entity/InitSqlRes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/entity/InitSqlRes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/entity/Sql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/entity/Sql.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/entity/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/entity/Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/listener/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/listener/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/DemoCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/DemoCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/AssertUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/AssertUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/ExcelUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/GlobalVariableUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/GlobalVariableUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/HttpRequestJsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/HttpRequestJsonUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/HttpRequestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/HttpRequestUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/InitSqlUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/InitSqlUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/PropertiesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/PropertiesUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/VariableUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/utils/VariableUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testngXML/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testngXML/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,74 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testngXML/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/jdbc.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -437,7 +319,7 @@
       <workItem from="1663504754566" duration="6527000" />
       <workItem from="1663543772580" duration="41000" />
       <workItem from="1663593848406" duration="2449000" />
-      <workItem from="1704774320125" duration="1743000" />
+      <workItem from="1704774320125" duration="2315000" />
     </task>
     <servers />
   </component>
@@ -474,11 +356,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56252000" />
+    <option name="totallyTimeSpent" value="56824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -511,35 +392,35 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32866043" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32866043" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28947368" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.07009346" />
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info anchor="right" id="Redis Explorer" order="3" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.24143302" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32866043" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21015424" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1450858" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Redis Explorer" order="6" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47507787" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34890965" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.62305295" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.12982005" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,24 +620,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testngXML/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-150">
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="460">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="435">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -767,27 +651,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseSuite.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="75">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/qzcsbj/autotest/testcase/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/testngXML/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>

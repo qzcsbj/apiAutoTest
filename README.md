@@ -1,12 +1,12 @@
-# 设计思路、详细实现过程等
+# 设计思路、实现过程
 - 主要技术栈：java + testng + httpclient + allure + fastjson + jsonpath + ...
-- [**设计思路**](https://www.cnblogs.com/uncleyong/p/15867903.html)
-- [**实现过程**](https://www.cnblogs.com/uncleyong/p/15867903.html)
+- [**设计思路、实现过程**](https://www.cnblogs.com/uncleyong/p/15867903.html)
+
 
 
 # 效果
 - ![gif效果](https://gitee.com/qzcsbj/pic/raw/master/%E3%80%90%E6%95%88%E6%9E%9C%E3%80%91java_auto_test.gif)
-- ![效果](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
+- ![报告截图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
 
 
 # 自动化测试框架（汇总）
