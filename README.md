@@ -1,6 +1,6 @@
 # 设计思路、实现过程
 - 主要技术栈：java + testng + httpclient + allure + fastjson + jsonpath + ...
-- [**设计思路、实现过程**](https://www.cnblogs.com/uncleyong/p/15867903.html)
+- [**设计思路、实现过程**](https://www.cnblogs.com/uncleyong/p/15867903.html)（←点击查看）
 
 
 
