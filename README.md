@@ -6,7 +6,7 @@
 
 # 效果
 - ![gif效果](https://gitee.com/qzcsbj/pic/raw/master/%E3%80%90%E6%95%88%E6%9E%9C%E3%80%91java_auto_test.gif)
-- ![报告截图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
+- ![报告截图](https://gitee.com/qzcsbj/pic/raw/master/allure-report-testng.png)
 
 
 # 自动化测试框架（汇总）
