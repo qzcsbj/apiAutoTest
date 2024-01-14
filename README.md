@@ -18,18 +18,16 @@
 
 ## 自动化框架清单（欢迎交流、斧正、指导）
 ### [**已完成框架**](https://www.cnblogs.com/uncleyong/p/10650552.html)（←点击查看）
-##### 不写代码版
-- [X] JMeter + Ant + Jenkins【 windows 版】
-- [X] JMeter + Ant + Jenkins【 linux 版】
-- [X] JMeter + Maven + Jenkins
-
 ##### 写代码版
 - [X] python基础入门版：/dev01/
 - [X] unittest + 关联 + excle + ddt：/dev02/
 - [X] 自己造轮子（未使用unittest、pytest等）：/dev04/
 - [X] 自己造轮子（未使用unittest、pytest等，dev04升级版）：/dev05/
 - [X] python进阶版：python + pytest + pyyaml + requests + allure + jsonpath + pymysql + loguru
-
+##### 不写代码版
+- [X] JMeter + Ant + Jenkins【 windows 版】
+- [X] JMeter + Ant + Jenkins【 linux 版】
+- [X] JMeter + Maven + Jenkins
 
 ## 测试咨询、交流
 - 咨询测试问题，请加**微信：ren168632201**
