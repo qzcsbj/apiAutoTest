@@ -13,7 +13,7 @@
 
 ## 干货分享
 - [**从测试小白到高级测试修炼之路，持续更新中**](https://www.cnblogs.com/uncleyong/p/10530261.html)：https://www.cnblogs.com/uncleyong/p/10530261.html
-- [**项目实战、简历、笔试题、面试题、职业规划**](https://www.cnblogs.com/uncleyong/p/15777706.html)：https://www.cnblogs.com/uncleyong/p/15777706.html
+- [**学习环境、自动化、持续集成、性能、测开实战、简历、笔试面试、职业规划**](https://www.cnblogs.com/uncleyong/p/15777706.html)：https://www.cnblogs.com/uncleyong/p/15777706.html
 
 
 ## 自动化框架清单（欢迎交流、斧正、指导）
