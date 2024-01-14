@@ -24,11 +24,11 @@
 - [X] JMeter + Maven + Jenkins ：https://www.cnblogs.com/uncleyong/p/10843097.html
 
 ##### 写代码版
-- [X] 基础入门（python版）：/dev01/
+- [X] python基础入门版：/dev01/
 - [X] unittest + 关联 + excle + ddt：/dev02/
 - [X] 自己造轮子（未使用unittest、pytest等）：/dev04/
 - [X] 自己造轮子（未使用unittest、pytest等，dev04升级版）：/dev05/
-- [X] python + pytest + pyyaml + requests + allure + jsonpath + pymysql + loguru
+- [X] python最终版：python + pytest + pyyaml + requests + allure + jsonpath + pymysql + loguru
 
 
 ## 测试咨询、交流
